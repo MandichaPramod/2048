@@ -1,0 +1,9 @@
+T:\rbetarse\Pramod\test projects\2048\2048\bin\Debug\2048.exe.config
+T:\rbetarse\Pramod\test projects\2048\2048\bin\Debug\2048.exe
+T:\rbetarse\Pramod\test projects\2048\2048\bin\Debug\2048.pdb
+T:\rbetarse\Pramod\test projects\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+T:\rbetarse\Pramod\test projects\2048\2048\obj\Debug\_2048.Form1.resources
+T:\rbetarse\Pramod\test projects\2048\2048\obj\Debug\_2048.Properties.Resources.resources
+T:\rbetarse\Pramod\test projects\2048\2048\obj\Debug\2048.csproj.GenerateResource.Cache
+T:\rbetarse\Pramod\test projects\2048\2048\obj\Debug\2048.exe
+T:\rbetarse\Pramod\test projects\2048\2048\obj\Debug\2048.pdb
